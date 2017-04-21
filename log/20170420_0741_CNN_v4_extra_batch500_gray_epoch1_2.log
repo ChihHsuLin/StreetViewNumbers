@@ -1,0 +1,8 @@
+loadDataFromFileGray
+invert gray
+no min max scaling
+
+Epoch 1/4
+1158/1158 [==============================] - 3292s - loss: 0.4026 - acc: 0.8685 - val_loss: 5.8638 - val_acc: 0.5563
+Epoch 2/4
+ 390/1158 [=========>....................] - ETA: 2146s - loss: 0.1443 - acc: 0.9582
